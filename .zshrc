@@ -48,6 +48,7 @@ alias wow="git status"
 # shortcuts
 alias ag="rg -i"
 alias ll="ls -l"
+alias watch="watch -n 1 "
 alias cputemp="watch -n3 --color istats"
 alias hl="hledger --strict"
 alias reload="source ~/.zshrc"
